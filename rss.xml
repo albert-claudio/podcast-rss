@@ -7,12 +7,12 @@
   <link>https://albert-claudio.github.io/podcast-rss/rss.xml</link>
   <description>Um podcast automatizado gerado por IA</description>
   <language>pt-br</language>
-  <itunes:email>teuemail@dominio.com</itunes:email>
+  <itunes:email>albertclaudio58@gmail.com</itunes:email>
   <atom:link href="https://albert-claudio.github.io/podcast-rss/rss.xml" rel="self" type="application/rss+xml"/>
   
   <item>
     <title>Episódio de Teste MP3</title>
-    <description>Episódio de teste automático do Upload Diário (agora em MP3).</description>
+    <description>Episódio de teste automático do Upload Diário.</description>
     <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xd1BL8GFM1HhPOLzuNXeFkXMIXqAGQvt" type="audio/mpeg" length="6358874 "/>
     <guid>https://drive.google.com/uc?export=download&amp;id=1xd1BL8GFM1HhPOLzuNXeFkXMIXqAGQvt</guid>
     <pubDate>Sat, 28 Jun 2025 14:00:00 GMT</pubDate>
