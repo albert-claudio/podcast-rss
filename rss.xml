@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     version="2.0">
 <channel>
   <title>Podcast Upload Diário</title>
   <link>https://albert-claudio.github.io/podcast-rss/rss.xml</link>
   <description>Um podcast automatizado gerado por IA</description>
   <language>pt-br</language>
+  <itunes:author>Albert Cláudio</itunes:author>
+  <author>Albert Cláudio</author>
   <itunes:email>albertclaudio58@gmail.com</itunes:email>
   <atom:link href="https://albert-claudio.github.io/podcast-rss/rss.xml" rel="self" type="application/rss+xml"/>
-  
+  <image>
+    <url>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</url>
+    <title>Podcast Upload Diário</title>
+    <link>https://albert-claudio.github.io/podcast-rss/rss.xml</link>
+  </image>
   <item>
-    <title>Episódio de Teste MP3</title>
+    <title>Episódio de teste MP3</title>
     <description>Episódio de teste automático do Upload Diário.</description>
-    <enclosure url="https://archive.org/download/noticias-diarias-tecnologia-espaco-e-saude-online-audio-converter.com/noticias-diarias-tecnologia-espaco-e-saude-online-audio-converter.com.mp3" type="audio/mpeg" length="6358874 "/>
+    <enclosure url="https://archive.org/download/noticias-diarias-tecnologia-espaco-e-saude-online-audio-converter.com/noticias-diarias-tecnologia-espaco-e-saude-online-audio-converter.com.mp3" type="audio/mpeg" length="6358874"/>
     <guid>https://archive.org/download/noticias-diarias-tecnologia-espaco-e-saude-online-audio-converter.com/noticias-diarias-tecnologia-espaco-e-saude-online-audio-converter.com.mp3</guid>
-    <pubDate>Sat, 28 Jun 2025 14:20:00 GMT</pubDate>
+    <pubDate>Sat, 28 Jun 2025 14:00:00 GMT</pubDate>
   </item>
-
 </channel>
 </rss>
