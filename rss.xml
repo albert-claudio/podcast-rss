@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Podcast Upload Diário</title>
   <link>https://albert-claudio.github.io/podcast-rss/rss.xml</link>
   <description>Um podcast automatizado gerado por IA</description>
   <language>pt-br</language>
+  <itunes:email>teuemail@dominio.com</itunes:email>
+  <atom:link href="https://albert-claudio.github.io/podcast-rss/rss.xml" rel="self" type="application/rss+xml"/>
   
   <item>
-    <title>Episódio de Teste</title>
-    <description>Episódio de teste automático do Upload Diário</description>
-    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UJ4uUeR80i5610qP1UX25aTzn5X2fvu1" type="audio/mpeg"/>
-    <guid>https://drive.google.com/uc?export=download&amp;id=1UJ4uUeR80i5610qP1UX25aTzn5X2fvu1</guid>
-    <pubDate>Sat, 28 Jun 2025 03:15:00 GMT</pubDate>
+    <title>Episódio de Teste MP3</title>
+    <description>Episódio de teste automático do Upload Diário (agora em MP3).</description>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xd1BL8GFM1HhPOLzuNXeFkXMIXqAGQvt" type="audio/mpeg" length="6358874 "/>
+    <guid>https://drive.google.com/uc?export=download&amp;id=1xd1BL8GFM1HhPOLzuNXeFkXMIXqAGQvt</guid>
+    <pubDate>Sat, 28 Jun 2025 14:00:00 GMT</pubDate>
   </item>
 
 </channel>
