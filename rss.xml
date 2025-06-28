@@ -9,8 +9,8 @@
   <item>
     <title>Episódio de Teste</title>
     <description>Episódio de teste automático do Upload Diário</description>
-    <enclosure url="https://drive.google.com/uc?export=download&id=1UJ4uUeR80i5610qP1UX25aTzn5X2fvu1" type="audio/mpeg"/>
-    <guid>https://drive.google.com/uc?export=download&id=1UJ4uUeR80i5610qP1UX25aTzn5X2fvu1</guid>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UJ4uUeR80i5610qP1UX25aTzn5X2fvu1" type="audio/mpeg"/>
+    <guid>https://drive.google.com/uc?export=download&amp;id=1UJ4uUeR80i5610qP1UX25aTzn5X2fvu1</guid>
     <pubDate>Sat, 28 Jun 2025 03:15:00 GMT</pubDate>
   </item>
 
