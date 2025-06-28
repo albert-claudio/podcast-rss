@@ -2,8 +2,17 @@
 <rss version="2.0">
 <channel>
   <title>Podcast Upload Diário</title>
-  <link>https://albertclaudio.github.io/podcast-rss/rss.xml</link>
+  <link>https://seunome.github.io/podcast-rss/rss.xml</link>
   <description>Um podcast automatizado gerado por IA</description>
   <language>pt-br</language>
+  
+  <item>
+    <title>Episódio de Teste</title>
+    <description>Episódio de teste automático do Upload Diário</description>
+    <enclosure url="https://drive.google.com/file/d/1UJ4uUeR80i5610qP1UX25aTzn5X2fvu1/view" type="audio/mpeg"/>
+    <guid>https://drive.google.com/uc?export=download&id=ID_DO_SEU_AUDIO</guid>
+    <pubDate>Sat, 28 Jun 2025 03:15:00 GMT</pubDate>
+  </item>
+
 </channel>
 </rss>
