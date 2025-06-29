@@ -15,8 +15,8 @@
   </itunes:owner>
   <atom:link href="https://albert-claudio.github.io/podcast-rss/rss.xml" rel="self" type="application/rss+xml"/>
   <image>
-    <url>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</url>
-    <title>Podcast Upload Diário</title>
+    <url>https://raw.githubusercontent.com/albert-claudio/albert-claudio-portfolio/refs/heads/main/css/Upload.png</url>
+    <title>Upload Diários</title>
     <link>https://albert-claudio.github.io/podcast-rss/rss.xml</link>
   </image>
   <item>
