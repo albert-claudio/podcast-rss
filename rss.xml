@@ -3,7 +3,7 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      version="2.0">
 <channel>
-  <title>Podcast Upload Diário</title>
+  <title>Upload Diários</title>
   <link>https://albert-claudio.github.io/podcast-rss/rss.xml</link>
   <description>Um podcast automatizado gerado por IA</description>
   <language>pt-br</language>
